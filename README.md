@@ -15,6 +15,11 @@ AS A manager</br>
 I WANT to generate a webpage that displays my team's basic info</br>
 SO THAT I have quick access to their emails and GitHub profiles</br>
 
+## Result Webpage
+
+![image](https://user-images.githubusercontent.com/16517540/205178795-2d09bdc4-afd5-4a1b-8dec-21d6fddf961e.png)
+
+
 
 ## Walkthrough video
 
